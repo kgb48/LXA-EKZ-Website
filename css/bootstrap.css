@@ -43,7 +43,7 @@ template {
   display: none;
 }
 a {
-  background-color: transparent;
+  background-image: transparent;
 }
 a:active,
 a:hover {
@@ -58,9 +58,6 @@ strong {
 }
 dfn {
   font-style: italic;
-}
-container {
-	background-color: #DD12D4;
 }
 h1 {
   margin: .67em 0;
@@ -994,7 +991,7 @@ th {
   content: "\e235";
 }
 .glyphicon-menu-hamburger:before {
-  content: "\e236";
+  content: "\e236";`
 }
 .glyphicon-modal-window:before {
   content: "\e237";
