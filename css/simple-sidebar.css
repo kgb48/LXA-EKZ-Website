@@ -15,14 +15,20 @@
 }
 
 body.home {
-    background: url('https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/13165849_113163225762280_4041869061553486967_n.jpg?oh=d7ffa11c984a1df7a94122fd746bac99&oe=57A2EE94');
+/*    background: url('https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/13165849_113163225762280_4041869061553486967_n.jpg?oh=d7ffa11c984a1df7a94122fd746bac99&oe=57A2EE94');*/
+	background: url('http://cdn.totalfratmove.com/wp-content/uploads/2014/04/0e9bad70d7d116b1fe98c673ffb826cc.jpg');
+	background-size: cover;
+}
+
+body.philanthropy {
+    background: url('https://halfsqueezedlemon.files.wordpress.com/2011/10/apple-chips-pumpkins.jpg');
+	/* Pumpkin image source: https://halfsqueezedlemon.files.wordpress.com/2011/10/apple-chips-pumpkins.jpg*/
 	background-size: cover;
 }
 
 body {
      margin: 0;
-     background: url('https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/13165849_113163225762280_4041869061553486967_n.jpg?oh=d7ffa11c984a1df7a94122fd746bac99&oe=57A2EE94');
-/*     background-size: 1440px 800px;*/
+	 background-size: cover;
      background-repeat:no-repeat;
    	 display: compact;
      font: 13px/18px "Helvetica Neue", Helvetica, Arial, sans-serif;
